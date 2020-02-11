@@ -1,0 +1,13 @@
+---
+title: "My cool data science project where i make a .md file from an RMD file"
+author: "Genevieve Jacobs"
+date: "2/11/2020"
+output: md_document
+---
+
+hey genny! Hope you are having a great day :D
+
+```{r}
+hist(rnorm(100))
+```
+
